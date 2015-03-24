@@ -18,20 +18,20 @@ body, html{
 
 @font-face{
 	font-family: FFMark;
-	src:url(Fonts/MarkOffc-Book.ttf);
+	src:url(font/MarkOffc-Book.ttf);
 }
 @font-face{
 	font-family: FFMark;
-	src: url(Fonts/MarkOffc-Bold.ttf);
+	src: url(font/MarkOffc-Bold.ttf);
 	font-weight: bold;
 }
 @font-face{
 	font-family: FFMarkCapital;
-	src: url(Fonts/MarkScOffc-Book.ttf);
+	src: url(font/MarkScOffc-Book.ttf);
 }
 @font-face{
 	font-family: FFMarkCapital;
-	src: url(Fonts/MarkScOffc-Bold.ttf);
+	src: url(font/MarkScOffc-Bold.ttf);
 	font-weight:bold;
 }
 
