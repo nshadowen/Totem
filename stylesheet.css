@@ -58,16 +58,12 @@ body, html{
 }
 
 #mc_embed_signup{
-	/*padding-top: 0;*/
 	text-align: center;
 }
-/*.mc-field-group{
-	text-align: center;
-}*/
-.clear{
+/*.clear{
 	padding-top: .5%;
 	text-align: center;
-}
+}*/
 #mc-embedded-subscribe{
 	float: center;
 	text-align: center;
