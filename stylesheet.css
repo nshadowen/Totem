@@ -71,6 +71,7 @@ body, html{
 #mc-embedded-subscribe{
 	float: center;
 	text-align: center;
+	padding-left: 50%;
 }
 .button{
 	background:#15d9d9; 
