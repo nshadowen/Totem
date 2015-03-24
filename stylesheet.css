@@ -7,6 +7,13 @@ body, html{
 	margin: 0;
 	padding: 0;
 }
+.totemlogoheader{
+	background:url('img/totemlogo');
+	background-size:100%;
+	width:20%;
+	padding-top:13%;
+	padding-left:50%;
+}
 .comingsoonbg {
 	background: url('img/totembackgroundimage.png');
 	background-size: 100%;
