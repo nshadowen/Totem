@@ -60,15 +60,12 @@ body, html{
 #mc_embed_signup{
 	text-align: center;
 }
-/*.clear{
-	padding-top: .5%;
-	text-align: center;
-}*/
+
 #mc-embedded-subscribe{
 	float: center;
-	text-align: center;
+	/*text-align: center;
 	padding-left: 40%;
-	padding-right: 40%;
+	padding-right: 40%;*/
 }
 .button{
 	background:#15d9d9; 
