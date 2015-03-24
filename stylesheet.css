@@ -68,6 +68,10 @@ body, html{
 	padding-top: .5%;
 	text-align: center;
 }
+#mc-embedded-subscribe{
+	float: center;
+	text-align: center;
+}
 .button{
 	background:#15d9d9; 
 	float:center; 
