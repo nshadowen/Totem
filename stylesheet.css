@@ -8,6 +8,8 @@ body, html{
 	padding: 0;
 }
 .totemlogoheader{
+	background:url('img/totemlogo.png');
+	background-size:100%;
 	width:20%;
 	padding-top:13%;
 	padding-left:50%;
