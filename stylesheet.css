@@ -57,13 +57,15 @@ body, html{
 	padding-top: 1%;
 }
 
-#mc_embed_signup{
+#mc_embed_signup_scroll{ 
 	text-align: center;
 }
 
 #mc-embedded-subscribe{
 	text-align: center;
 }
+
+
 .button{
 	background:#15d9d9; 
 	/*float:center; */
