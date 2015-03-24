@@ -61,9 +61,9 @@ body, html{
 	text-align: center;
 }
 
-/*#mc-embedded-subscribe{
+#mc-embedded-subscribe{
 	text-align: center;
-}*/
+}
 .button{
 	background:#15d9d9; 
 	/*float:center; */
