@@ -62,11 +62,13 @@ body, html{
 	float: center !important;
 }
 .mc-field-group{
-	padding-left:50%%;
+	/*padding-left:50%;*/
+	text-align:center;
 }
 .clear{
-	padding-left:50%;
+	/*padding-left:50%;*/
 	padding-top:1%;
+	text-align:center;
 }
 .button{
 	background:#15d9d9; 
