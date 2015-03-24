@@ -48,7 +48,7 @@ body, html{
 	font-size: 80px;
 	letter-spacing: .05px;
 	text-align: center;
-	padding-top: 15%;
+	/*padding-top: 15%;*/
 	color: white;
 	opacity: .95;
 	text-shadow: 2px 2px 15px #000000;
