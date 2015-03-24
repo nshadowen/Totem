@@ -8,7 +8,7 @@ body, html{
 	padding: 0;
 }
 .comingsoonbg {
-	background: url(totembackgroundimage.png);
+	background: url(img/totembackgroundimage.png);
 	background-size: 100%;
 	background-repeat: no-repeat;
 	float: center;
