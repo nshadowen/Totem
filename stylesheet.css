@@ -8,7 +8,7 @@ body, html{
 	padding: 0;
 }
 .comingsoonbg {
-	background: ur(img/totembackgroundimage.png);
+	background: url('img/totembackgroundimage.png');
 	background-size: 100%;
 	background-repeat: no-repeat;
 	float: center;
@@ -18,20 +18,20 @@ body, html{
 
 @font-face{
 	font-family: FFMark;
-	src:url(font/MarkOffc-Book.ttf);
+	src:url('font/MarkOffc-Book.ttf');
 }
 @font-face{
 	font-family: FFMark;
-	src: url(font/MarkOffc-Bold.ttf);
+	src:url('font/MarkOffc-Bold.ttf');
 	font-weight: bold;
 }
 @font-face{
 	font-family: FFMarkCapital;
-	src: url(font/MarkScOffc-Book.ttf);
+	src:url('font/MarkScOffc-Book.ttf');
 }
 @font-face{
 	font-family: FFMarkCapital;
-	src: url(font/MarkScOffc-Bold.ttf);
+	src:url('font/MarkScOffc-Bold.ttf');
 	font-weight:bold;
 }
 
