@@ -62,11 +62,11 @@ body, html{
 	float: center !important;
 }
 .mc-field-group{
-	padding-left:40%;
+	padding-left:50%%;
 }
 .clear{
-	padding-left:30%;
-	padding-top:3%;
+	padding-left:50%;
+	padding-top:1%;
 }
 .button{
 	background:#15d9d9; 
