@@ -66,6 +66,7 @@ body, html{
 }
 .clear{
 	padding-top: .5%;
+	text-align: center;
 }
 .button{
 	background:#15d9d9; 
