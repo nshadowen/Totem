@@ -62,10 +62,7 @@ body, html{
 }
 
 #mc-embedded-subscribe{
-	float: center;
-	/*text-align: center;
-	padding-left: 40%;
-	padding-right: 40%;*/
+	text-align: center;
 }
 .button{
 	background:#15d9d9; 
