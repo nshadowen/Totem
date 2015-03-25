@@ -8,14 +8,11 @@ body, html{
 	padding: 0;
 }
 img{
-	size:50%;
-	float:center;
-}
-.totemlogoheader{
 	width:50%;
 	padding-left: 25%;
     	padding-top: 15%;
-	
+}
+.totemlogoheader{
 	/*background:url('img/totemlogo.png');
 	width:200px;
 	height:50px;
