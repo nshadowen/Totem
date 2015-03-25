@@ -60,6 +60,7 @@ img{
 	color: white;
 	opacity: .95;
 	text-shadow: 2px 2px 15px #000000;
+	line-height:80px;
 }
 
 .totemintro{
