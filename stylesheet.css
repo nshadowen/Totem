@@ -8,8 +8,8 @@ body, html{
 	padding: 0;
 }
 .totemlogoheader img{
-	width:33%;
-	padding-left: 30%;
+	width:40%;
+	padding-left: 32%;
     	padding-top: 10%;
 }
 .totemlogoheader{
@@ -105,9 +105,11 @@ body, html{
 	color: white;
 	font-family:FFMark;
 	padding-right:2%;
-	width: 70%;
+	width: 100%;
 	font-size:14px;
 	img{
-		width: 50px;
+    	width: 90px;
+    	margin-top: 60px;
+    	margin-left: 550px;
 }
 }
