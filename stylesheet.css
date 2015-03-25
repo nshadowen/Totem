@@ -100,7 +100,7 @@ body, html{
 	
 }
 .totemcopyright{ 
-	align:right;
+	/*align:right;
 	position:absolute;
 	color: white;
 	font-family:FFMark;
@@ -110,6 +110,6 @@ body, html{
 	img{
     	width: 90px;
     	margin-top: 60px;
-    	margin-left: 550px;
+    	margin-left: 550px;*/
 }
 }
