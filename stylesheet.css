@@ -99,18 +99,9 @@ body, html{
 	background: transparent;
 	
 }
-.totemcopyright{ 
-	/*align:right;
-	position:absolute;
-	color: white;
-	font-family:FFMark;
-	padding-right:2%;
-	width: 100%;
-	font-size:14px;*/
-	img{
+.totemcopyright img{
     	width:15%;
     	float: right;
     	padding-top:50px;
     	padding-right:10px;
-}
 }
