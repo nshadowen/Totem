@@ -110,5 +110,7 @@ body, html{
 	img{
     	width:15%;
     	float: right;
+    	padding-top:30px;
+    	padding-right:10px;
 }
 }
